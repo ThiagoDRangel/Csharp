@@ -1,0 +1,15 @@
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/produtos-estoque
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/produtos-estoque.deps.json
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/produtos-estoque.runtimeconfig.json
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/produtos-estoque.dll
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/ref/produtos-estoque.dll
+/home/thiago/c#/Csharp/produtos-estoque/bin/Debug/net6.0/produtos-estoque.pdb
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.csproj.AssemblyReference.cache
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.AssemblyInfoInputs.cache
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.AssemblyInfo.cs
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.csproj.CoreCompileInputs.cache
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.dll
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/ref/produtos-estoque.dll
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.pdb
+/home/thiago/c#/Csharp/produtos-estoque/obj/Debug/net6.0/produtos-estoque.genruntimeconfig.cache
